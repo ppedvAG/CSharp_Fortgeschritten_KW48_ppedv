@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\OpenClose_Principe\obj\Debug\net5.0\OpenClose_Principe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\OpenClose_Principe\obj\Debug\net5.0\OpenClose_Principe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\OpenClose_Principe\obj\Debug\net5.0\OpenClose_Principe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\OpenClose_Principe\obj\Debug\net5.0\OpenClose_Principe.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\OpenClose_Principe\obj\Debug\net5.0\OpenClose_Principe.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\SOLID_InterfaceSegregation\obj\Debug\net5.0\SOLID_InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\SOLID_InterfaceSegregation\obj\Debug\net5.0\SOLID_InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\SOLID_InterfaceSegregation\obj\Debug\net5.0\SOLID_InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\SOLID_InterfaceSegregation\obj\Debug\net5.0\SOLID_InterfaceSegregation.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\SOLID_InterfaceSegregation\obj\Debug\net5.0\SOLID_InterfaceSegregation.csproj.CoreCompileInputs.cache
