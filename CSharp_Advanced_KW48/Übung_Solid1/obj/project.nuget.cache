@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvDYgd2ULQT2MB0/QeR6dEVQjGId/uDY3QbqLAnVfP+O8Cb2VxQXfeHhY57pPnLjW6FSlmdfoBViOtYdVE6Qig==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\Übung_Solid1\\Übung_Solid1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

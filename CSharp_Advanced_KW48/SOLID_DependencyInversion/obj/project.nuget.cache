@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1xrR8DrOwOqh9wFBpgjrzA5ZA4Rsj8vFFiGhnpOl5P+aVIRqy/YdX8f2zPJ8l5/u8s1ok+77jdrpJoZbt2GUg==",
+  "dgSpecHash": "/uIVta8YGhJ05Sw3FD5YlKEY73BngHISIk4DrINaLE7PN3LVou76VlLsJh3oJKehFFeJLBVrZWuRp5UPn/5M9A==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW_48_ppedv\\CSharp_Advanced_KW48\\SOLID_DependencyInversion\\SOLID_DependencyInversion.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\SOLID_DependencyInversion\\SOLID_DependencyInversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

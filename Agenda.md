@@ -6,9 +6,9 @@ Themen
 Montag:
 
 - [x] Solid 
-- [ ] Delegates / Actions / Func / Events / EventHandler
+- [x] Delegates / Actions / Func / Events / EventHandler
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
-
+- [ ] Übungen zu Solid
 Dienstag:
 - [ ] Threading
 - [ ] TPL

@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\EventEventHandlerSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\EventEventHandlerSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\EventEventHandlerSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\EventEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\ref\EventEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\bin\Debug\net6.0-windows\EventEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.Form1.resources
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\ref\EventEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\EventEventHandlerSample\obj\Debug\net6.0-windows\EventEventHandlerSample.genruntimeconfig.cache
