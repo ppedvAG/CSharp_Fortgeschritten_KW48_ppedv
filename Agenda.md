@@ -7,8 +7,11 @@ Montag:
 
 - [x] Solid 
 - [x] Delegates / Actions / Func / Events / EventHandler
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
-- [ ] Übungen zu Solid
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Übungen zu Solid
+
+
+
 Dienstag:
 - [ ] Threading
 - [ ] TPL
