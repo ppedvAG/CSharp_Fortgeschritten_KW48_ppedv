@@ -13,10 +13,10 @@ Montag:
 
 
 Dienstag:
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [x] Generics
 
 
 Mittwoch:
@@ -27,7 +27,7 @@ Mittwoch:
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
-- [ ] C# 7.0 -> 10.0
+- [ ] C# 7.0 -> 10.0->Records
 
 Weitere Themen bei freier Zeit
 - [ ] OOP -> Crashkurs

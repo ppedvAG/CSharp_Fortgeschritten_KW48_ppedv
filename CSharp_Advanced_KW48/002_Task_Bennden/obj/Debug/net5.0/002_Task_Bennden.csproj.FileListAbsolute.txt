@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\ref\002_Task_Bennden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\bin\Debug\net5.0\002_Task_Bennden.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\ref\002_Task_Bennden.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\002_Task_Bennden\obj\Debug\net5.0\002_Task_Bennden.genruntimeconfig.cache

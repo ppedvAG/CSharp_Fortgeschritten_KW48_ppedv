@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYw4KRs019J4vox9Fkb/vofOfCcAOeQFoZOC6dC865itYla9E+S/O+Fuw1FwbU235qK9lArIaaKaEy4gWTJcVg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\009_AsynAwaitPattern\\009_AsynAwaitPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

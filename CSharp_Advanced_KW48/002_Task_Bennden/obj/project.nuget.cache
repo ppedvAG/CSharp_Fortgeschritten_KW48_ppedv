@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkOBHmIC/1DAW498kDIl3bpZCdxZXtDflgFXuy8wSIz2oMVcweUVTjF5mFxpzrjSf0YUXFGleMK6pNc1LKfEnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\002_Task_Bennden\\002_Task_Bennden.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

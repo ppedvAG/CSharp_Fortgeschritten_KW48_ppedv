@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0Zv0nSWOtTmhz3w8afJXgoW4yWQKgyzKoSkJAZEh2dUkuccqONoaTySaymkSCwRun/npJ+dILY+5CK+ArO9RA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\StructVsClass\\Modul019_01_StructVsClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
