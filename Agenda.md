@@ -20,11 +20,11 @@ Dienstag:
 
 
 Mittwoch:
-- [ ] Reflections 
-	- [ ] Plugin-Pattern 
+- [x] Reflections 
+	- [x] Plugin-Pattern 
 - [ ] Serialisierung
+- [ ] Erweiterungsmethoden 
 - [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
 - [ ] C# 7.0 -> 10.0->Records

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solid", "Solid", "{1658896A-D8E9-499F-9211-9897F3BEBFC3}"
 EndProject
@@ -106,9 +106,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_Lab", "Generic_Lab\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflections", "Reflections", "{FE8997BF-6B46-4987-9B53-60D8E18053E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{095EB86E-3EF9-4925-9F8C-DD24CB95A676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{095EB86E-3EF9-4925-9F8C-DD24CB95A676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloReflections", "HelloReflections\HelloReflections.csproj", "{BFC63649-279B-476A-8079-107459558CA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloReflections", "HelloReflections\HelloReflections.csproj", "{BFC63649-279B-476A-8079-107459558CA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialisierung", "Serialisierung", "{F74D9609-F34E-426C-B74B-AA88489F1185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSerialization", "HelloSerialization\HelloSerialization.csproj", "{1D051FA1-229F-4AAC-A6B4-FB99720D1214}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -284,6 +288,10 @@ Global
 		{BFC63649-279B-476A-8079-107459558CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFC63649-279B-476A-8079-107459558CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFC63649-279B-476A-8079-107459558CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D051FA1-229F-4AAC-A6B4-FB99720D1214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D051FA1-229F-4AAC-A6B4-FB99720D1214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D051FA1-229F-4AAC-A6B4-FB99720D1214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D051FA1-229F-4AAC-A6B4-FB99720D1214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -332,6 +340,7 @@ Global
 		{08FAD993-E820-47D6-AF42-DE50D1A3B629} = {C2289092-A534-4CDF-8C5E-EDF45657550B}
 		{095EB86E-3EF9-4925-9F8C-DD24CB95A676} = {FE8997BF-6B46-4987-9B53-60D8E18053E2}
 		{BFC63649-279B-476A-8079-107459558CA9} = {FE8997BF-6B46-4987-9B53-60D8E18053E2}
+		{1D051FA1-229F-4AAC-A6B4-FB99720D1214} = {F74D9609-F34E-426C-B74B-AA88489F1185}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BD414667-93C3-45F2-9EDB-3A3165131C92}
