@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\ref\CSahrp70.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\bin\Debug\net5.0\CSahrp70.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\ref\CSahrp70.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\CSahrp70\obj\Debug\net5.0\CSahrp70.genruntimeconfig.cache
