@@ -22,8 +22,8 @@ Dienstag:
 Mittwoch:
 - [x] Reflections 
 	- [x] Plugin-Pattern 
-- [ ] Serialisierung
-- [ ] Erweiterungsmethoden 
+- [x] Serialisierung
+- [x] Erweiterungsmethoden 
 - [ ] Linq / Lambda 
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
