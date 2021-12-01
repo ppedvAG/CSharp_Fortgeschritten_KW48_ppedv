@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\bin\Debug\netcoreapp3.1\TPL1_Lab.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\CSharp_Advanced_KW48\TPL1_Lab\obj\Debug\netcoreapp3.1\TPL1_Lab.genruntimeconfig.cache
