@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pS9rEI5hdVXBVCX42aL7Xabz08KHZmvqakIJt6vsvjJjPdTTIVkqlgPrxBAcXQ8PhLmJil/UsN8gCfB0AxHxDA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW48_ppedv\\CSharp_Advanced_KW48\\TPL2_Lab\\TPL2_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
