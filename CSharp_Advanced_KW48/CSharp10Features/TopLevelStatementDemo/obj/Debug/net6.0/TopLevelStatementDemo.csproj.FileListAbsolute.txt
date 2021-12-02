@@ -1,0 +1,15 @@
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\TopLevelStatementDemo.exe
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\TopLevelStatementDemo.deps.json
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\TopLevelStatementDemo.runtimeconfig.json
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\TopLevelStatementDemo.dll
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\ref\TopLevelStatementDemo.dll
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\bin\Debug\net6.0\TopLevelStatementDemo.pdb
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.csproj.AssemblyReference.cache
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.AssemblyInfoInputs.cache
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.AssemblyInfo.cs
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.csproj.CoreCompileInputs.cache
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.dll
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\ref\TopLevelStatementDemo.dll
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.pdb
+C:\KnowledgeCodes\CSharp10Features\TopLevelStatementDemo\obj\Debug\net6.0\TopLevelStatementDemo.genruntimeconfig.cache

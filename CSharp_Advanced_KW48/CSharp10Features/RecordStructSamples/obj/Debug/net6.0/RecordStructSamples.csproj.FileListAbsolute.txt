@@ -1,0 +1,15 @@
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\RecordStructSamples.exe
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\RecordStructSamples.deps.json
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\RecordStructSamples.runtimeconfig.json
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\RecordStructSamples.dll
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\ref\RecordStructSamples.dll
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\bin\Debug\net6.0\RecordStructSamples.pdb
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.csproj.AssemblyReference.cache
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.AssemblyInfoInputs.cache
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.AssemblyInfo.cs
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.csproj.CoreCompileInputs.cache
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.dll
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\ref\RecordStructSamples.dll
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.pdb
+C:\KnowledgeCodes\CSharp10Features\RecordStructSamples\obj\Debug\net6.0\RecordStructSamples.genruntimeconfig.cache
